@@ -1,8 +1,11 @@
 # proyecto-linux-grupo6
 
-**Proyecto final de Introducción al Software Libre (ISL135)** 
-Universidad de El Salvador · Facultad Multidisciplinaria de Occidente · Departamento de Ingeniería y Arquitectura 
-Ingeniería en Desarrollo de Software / Educación en Línea · Ciclo II – 2026 
+**Proyecto final de Introducción al Software Libre (ISL135)**
+
+Universidad de El Salvador · Facultad Multidisciplinaria de Occidente · Departamento de Ingeniería y Arquitectura
+
+Ingeniería en Desarrollo de Software / Educación en Línea · Ciclo II – 2026
+
 Fecha de entrega: martes 3 de noviembre de 2026
 
 ---
