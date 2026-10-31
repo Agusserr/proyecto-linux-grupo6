@@ -23,7 +23,7 @@ Todo el trabajo se realizó siguiendo, en orden, cada requerimiento de la guía 
 | Ángel Gustavo Serrano Benavides | SB22013 | 1 y 3 | Entorno base y control de versiones |
 | Esmeralda Isabel Alvarez Rivas  | AR21036 | 2 y 4 | Docker base, script de monitoreo y cron |
 | José Adalberto Díaz Lue         | DL25004 | 5 y 6 | Servidor web y Dockerfile |
-| Paola Surgey Herecules Jirón    | HJ23002 | 7 y 8 | Redes, volúmenes y verificación final |
+| Paola Sugey Hércules Jirón      | HJ23002 | 7 y 8 | Redes, volúmenes y verificación final |
 
 Cada integrante realiza sus commits desde su propio clon con su identidad de Git, de modo que el historial refleja la participación de los cuatro (ver sección 8).
 
