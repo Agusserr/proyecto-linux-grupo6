@@ -570,8 +570,9 @@ Todas las capturas se guardan en `capturas/` con el formato `sX_Y_descripcion.pn
 | **3** | `s3_git_init_commit`, `s3_github_repo`, `s3_push_remoto`, `s3_readme`, `s3_colaboradores` |
 | **4.1** | `s4_1_version_docker`, `s4_2_servicio_docker_status`, `s4_3_grupo_docker_miembros`, `s4_4_prueba_acceso_sin_sudo` |
 | **4.2** | `s4_5_ejecucion_hello_world`, `s4_6_verificacion_imagenes_y_ps` |
-| **5** | `s5_1_index`, `s5_1_run`, `s5_2_navegador`, `s5_2_logs` |
-| **6** | `s6_1_dockerfile`, `s6_1_build`, `s6_2_run`, `s6_2_navegador`, `s6_2_comparacion` |
+| **5** | `s5_1_creacion_contenedor`, `s5_1_ejecucion_contenedor`, `s5_1_index_p1`, `s5_1_index_p2`, `s5_1_index
+_p3`, `s5_2_logs`, `s5_2_navegador_linux`, `s5_2_navegador_window` |
+| **6** | `s6_1_archivo_dockerfile`, `s6_1_construccion_dockerfile`, `s6_2_contenedor_personalizado`, `s6_2_navegador_linux`, `s6_2_navegador_window`, |
 | **7** | `s7_1_red`, `s7_1_inspect`, `s7_2_volumen`, `s7_2_mounts`, `s7_2_persistencia` |
 | **8** | `s8_1_ping`, `s8_2_puertos`, `s8_2_docker_ps`, `s8_2_cron`, `s8_2_git` |
 
