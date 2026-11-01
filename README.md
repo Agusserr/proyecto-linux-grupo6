@@ -562,18 +562,18 @@ git push
 Todas las capturas se guardan en `capturas/` con el formato `sX_Y_descripcion.png`, mostrando el prompt (`usuario@servidor-grupo6`), el comando y su salida completa.
 
 | Sección | Capturas |
-|---|---|
-| 1.1 | `s1_1_hostname`, `s1_1_usuarios`, `s1_1_grupos`, `s1_1_campos` |
-| 1.2 | `s1_2_estructura` (se ve la `s` del setgid), `s1_2_herencia` |
-| 2.1 | `s2_1_script`, `s2_1_ejecucion` |
-| 2.2 | `s2_2_cron` (`crontab -l` y estado de cron), `s2_2_log` (entradas en horas distintas) |
-| 3 | `s3_git_init_commit`, `s3_github_repo`, `s3_push_remoto`, `s3_readme`, `s3_colaboradores` |
-| 4.1 | `s4_1_version`, `s4_1_servicio`, `s4_1_grupo_docker` |
-| 4.2 | `s4_2_hello_world`, `s4_2_ps_a` |
-| 5 | `s5_1_index`, `s5_1_run`, `s5_2_navegador`, `s5_2_logs` |
-| 6 | `s6_1_dockerfile`, `s6_1_build`, `s6_2_run`, `s6_2_navegador`, `s6_2_comparacion` |
-| 7 | `s7_1_red`, `s7_1_inspect`, `s7_2_volumen`, `s7_2_mounts`, `s7_2_persistencia` |
-| 8 | `s8_1_ping`, `s8_2_puertos`, `s8_2_docker_ps`, `s8_2_cron`, `s8_2_git` |
+| :---: | :--- |
+| **1.1** | `s1_1_hostname`, `s1_1_usuarios`, `s1_1_grupos`, `s1_1_campos` |
+| **1.2** | `s1_2_estructura` (se ve la `s` del setgid), `s1_2_herencia` |
+| **2.1** | `s2_1_codigo_script_nano`, `s2_2_permisos_y_prueba_script` |
+| **2.2** | `s2_3_preparacion_log_y_crontab`, `s2_4_linea_crontab_programada`, `s2_5_verificacion_log_tail` |
+| **3** | `s3_git_init_commit`, `s3_github_repo`, `s3_push_remoto`, `s3_readme`, `s3_colaboradores` |
+| **4.1** | `s4_1_version_docker`, `s4_2_servicio_docker_status`, `s4_3_grupo_docker_miembros`, `s4_4_prueba_acceso_sin_sudo` |
+| **4.2** | `s4_5_ejecucion_hello_world`, `s4_6_verificacion_imagenes_y_ps` |
+| **5** | `s5_1_index`, `s5_1_run`, `s5_2_navegador`, `s5_2_logs` |
+| **6** | `s6_1_dockerfile`, `s6_1_build`, `s6_2_run`, `s6_2_navegador`, `s6_2_comparacion` |
+| **7** | `s7_1_red`, `s7_1_inspect`, `s7_2_volumen`, `s7_2_mounts`, `s7_2_persistencia` |
+| **8** | `s8_1_ping`, `s8_2_puertos`, `s8_2_docker_ps`, `s8_2_cron`, `s8_2_git` |
 
 ## 7. Cumplimiento de la guía
 
